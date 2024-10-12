@@ -11,6 +11,7 @@
     2. docker-compose | docker compose up -d
     3. docker ps 
     4. docker-compose | docker compose down 
+    5. npm run start:dev
 
 
 
